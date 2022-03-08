@@ -1264,3 +1264,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T23:16:03.520Z,44.6895,-110.0263333,12.38,1.26,md,11.0,95.0,0.08562,0.16,uu,uu60484902,2022-03-08T23:25:34.420Z,"35 km S of Silver Gate, Montana",earthquake,0.45,0.83,0.52,8.0,reviewed,uu,uu
 2022-03-08T23:14:14.620Z,38.8351669,-122.8188324,1.65,0.36,md,8.0,94.0,0.0136,0.01,nc,nc73703041,2022-03-08T23:30:15.987Z,"8km NW of The Geysers, CA",earthquake,0.37,1.13,,1.0,automatic,nc,nc
 2022-03-08T06:50:25.899Z,39.1902,-119.6045,6.0,0.6,ml,6.0,136.05,0.101,0.1362,nn,nn00835083,2022-03-08T23:25:12.277Z,"5 km S of Dayton, Nevada",earthquake,,5.0,0.3,4.0,reviewed,nn,nn
+2022-03-08T08:37:47.679Z,40.0861,-119.6591,12.7,0.4,ml,3.0,184.25,0.101,0.0241,nn,nn00835088,2022-03-08T23:37:34.156Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,6.0,0.28,2.0,reviewed,nn,nn
