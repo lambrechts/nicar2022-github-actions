@@ -2366,3 +2366,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T01:21:59.350Z,38.8349991,-122.807663,2.38,0.85,md,11.0,67.0,0.01174,0.01,nc,nc73704851,2022-03-13T02:09:16.509Z,"8km W of Cobb, CA",earthquake,0.37,1.43,,1.0,automatic,nc,nc
 2022-03-13T01:19:45.280Z,34.0463333,-117.17,5.05,0.84,ml,18.0,116.0,0.139,0.31,ci,ci40206336,2022-03-13T01:23:20.908Z,"2km SE of Redlands, CA",earthquake,0.64,3.17,0.232,20.0,automatic,ci,ci
 2022-03-13T01:11:03.702Z,22.6979,94.5421,108.51,4.5,mb,,63.0,3.009,0.88,us,us6000h43x,2022-03-13T01:32:30.040Z,Myanmar,earthquake,10.2,7.4,0.075,55.0,reviewed,us,us
+2022-03-13T02:38:59.130Z,34.1395,-117.4641667,5.34,1.08,ml,29.0,57.0,0.04506,0.18,ci,ci40206432,2022-03-13T02:42:32.392Z,"5km N of Fontana, CA",earthquake,0.31,0.63,0.162,28.0,automatic,ci,ci
+2022-03-13T02:19:13.645Z,60.7487,-148.5381,12.0,1.9,ml,,,,0.55,ak,ak0223b3zyf2,2022-03-13T02:21:54.122Z,"8 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-13T02:18:24.690Z,33.9726667,-116.6891667,16.08,0.7,ml,19.0,69.0,0.07407,0.2,ci,ci40206416,2022-03-13T02:21:48.565Z,"11km NE of Cabazon, CA",earthquake,0.49,1.03,0.119,17.0,automatic,ci,ci
