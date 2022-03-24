@@ -5614,3 +5614,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T13:06:08.621Z,39.5459,-120.3619,12.0,0.3,ml,8.0,189.68,0.126,0.2032,nn,nn00835965,2022-03-24T21:35:26.322Z,"4 km S of Sierraville, California",earthquake,,4.0,0.6,3.0,reviewed,nn,nn
 2022-03-24T07:34:30.886Z,36.8647,141.2268,44.23,4.3,mb,,138.0,2.446,0.97,us,us7000gwzz,2022-03-24T21:43:48.821Z,"36 km SE of Iwaki, Japan",earthquake,9.3,8.8,0.177,9.0,reviewed,us,us
 2022-03-23T23:55:17.790Z,48.1245,-122.38733333333332,26.86,1.31,ml,31.0,36.0,0.1347,0.26,uw,uw61815617,2022-03-24T21:32:09.810Z,"5 km SSW of Warm Beach, Washington",earthquake,0.36,0.8,0.0657503710472133,4.0,reviewed,uw,uw
+2022-03-24T21:50:38.906Z,38.1654,-117.899,10.6,0.5,ml,8.0,168.03,0.054,0.0772,nn,nn00835967,2022-03-24T21:54:40.621Z,"31 km SE of Mina, Nevada",earthquake,,0.8,0.61,4.0,automatic,nn,nn
+2022-03-24T21:50:29.270Z,38.8161659,-122.8228302,2.06,2.37,md,48.0,30.0,0.008815,0.05,nc,nc73709961,2022-03-24T21:53:11.850Z,"7km NW of The Geysers, CA",earthquake,0.15,0.21,0.15,31.0,automatic,nc,nc
+2022-03-24T21:42:43.590Z,35.751,-117.5611667,7.04,1.2,ml,22.0,86.0,0.07104,0.19,ci,ci39977167,2022-03-24T21:53:50.600Z,"14km W of Searles Valley, CA",earthquake,0.39,0.78,0.163,13.0,automatic,ci,ci
