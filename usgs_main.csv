@@ -5413,3 +5413,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T07:03:03.449Z,36.1483,139.3103,115.36,4.5,mb,,123.0,0.972,1.1,us,us7000gwsk,2022-03-24T07:18:58.040Z,"6 km SSE of Fukayachō, Japan",earthquake,5.6,7.2,0.11,24.0,reviewed,us,us
 2022-03-24T06:02:40.520Z,19.0615,-65.31,49.0,3.59,md,18.0,294.0,0.7545,0.46,pr,pr2022083002,2022-03-24T07:25:09.166Z,"83 km N of Culebra, Puerto Rico",earthquake,4.25,9.65,0.07,11.0,reviewed,pr,pr
 2022-03-24T05:42:18.790Z,19.0245,-65.2858,66.0,3.68,md,14.0,298.0,0.717,0.69,pr,pr2022083001,2022-03-24T07:25:01.806Z,"79 km N of Culebra, Puerto Rico",earthquake,9.11,14.38,0.09,8.0,reviewed,pr,pr
+2022-03-24T07:25:08.550Z,19.2151660919189,-155.463333129883,34.9500007629395,1.95000005,md,33.0,136.0,,0.109999999,hv,hv72960677,2022-03-24T07:28:43.140Z,"2 km NE of Pāhala, Hawaii",earthquake,0.5,0.689999998,0.75,8.0,automatic,hv,hv
