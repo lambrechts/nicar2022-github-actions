@@ -5805,3 +5805,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T12:51:42.590Z,33.6891667,-116.717,16.81,0.95,ml,40.0,36.0,0.02207,0.21,ci,ci39977759,2022-03-25T12:55:22.940Z,"6km S of Idyllwild, CA",earthquake,0.32,0.49,0.18,27.0,automatic,ci,ci
 2022-03-25T12:49:33.220Z,19.1860008239746,-155.399505615234,32.4500007629395,1.83000004,md,36.0,164.0,,0.129999995,hv,hv72961667,2022-03-25T12:52:47.160Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.73,1.14999998,0.839999974,12.0,automatic,hv,hv
 2022-03-25T12:41:31.558Z,16.8113,-60.9004,37.78,4.5,mb,,135.0,0.52,0.39,us,us7000gx73,2022-03-25T13:40:39.874Z,"59 km NNE of Beauséjour, Guadeloupe",earthquake,3.7,9.2,0.052,108.0,reviewed,us,us
+2022-03-25T13:48:50.070Z,33.6545,-116.7291667,15.81,0.98,ml,31.0,67.0,0.05789,0.21,ci,ci39977791,2022-03-25T13:52:28.404Z,"10km S of Idyllwild, CA",earthquake,0.32,0.5,0.238,29.0,automatic,ci,ci
+2022-03-24T23:38:25.260Z,36.10916667,-97.21933333,8.92,0.75,ml,36.0,68.0,0.1511703352,0.26,ok,ok2022fvqb,2022-03-25T14:00:28.849Z,"14 km W of Stillwater, Oklahoma",earthquake,,3.2,0.25,11.0,reviewed,ok,ok
