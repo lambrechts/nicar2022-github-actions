@@ -6276,3 +6276,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-27T04:33:08.830Z,38.8354988,-122.8081665,1.97,0.85,md,9.0,105.0,0.01218,0.01,nc,nc73710991,2022-03-27T04:34:47.591Z,"8km WNW of Cobb, CA",earthquake,0.48,1.1,,1.0,automatic,nc,nc
 2022-03-27T04:30:46.459Z,59.3951,-152.8319,72.1,2.5,ml,,,,0.61,ak,ak0223yas3u7,2022-03-27T04:43:51.651Z,"51 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-27T04:28:13.293Z,0.9088,-79.5894,26.52,5.8,mww,,76.0,1.319,1.1,us,us7000gxlu,2022-03-27T04:50:39.369Z,"9 km SE of Esmeraldas, Ecuador",earthquake,6.4,4.1,0.05,39.0,reviewed,us,us
+2022-03-27T04:48:59.690Z,19.1509990692139,-155.463836669922,30.75,2.30999994,md,38.0,163.0,,0.189999998,hv,hv72963362,2022-03-27T04:52:12.980Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.93,1.11000001,0.910000026,19.0,automatic,hv,hv
