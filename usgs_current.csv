@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-01T09:48:52.608Z,35.41509247,-97.90270233,1.169079304,1.9,ml,17,52.86798096,0.02693909965,1.384688269,ok,ok2022gjes,2022-04-01T09:51:07.189Z,"4 km NE of Union City, Oklahoma",earthquake,2.707969905,2.264154115,,12,automatic,ok,ok
 2022-04-01T09:28:08.280Z,38.8144989,-122.8249969,2.1,0.85,md,12,89,0.006503,0.02,nc,nc73713001,2022-04-01T09:44:16.179Z,"7km NW of The Geysers, CA",earthquake,0.35,0.72,,1,automatic,nc,nc
 2022-04-01T09:28:04.397Z,61.7024,-150.7044,56.1,2.2,ml,,,,0.51,ak,ak02246nfhrm,2022-04-01T09:37:56.226Z,"20 km NNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-01T09:25:53.998Z,61.7488,-149.7054,29.4,1.6,ml,,,,0.44,ak,ak02246neyg7,2022-04-01T09:27:51.102Z,"14 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T00:35:26.510Z,17.9471666666667,-67.1103333333333,11.48,2.44,md,4,290,,0.02,pr,pr71342888,2022-04-01T00:55:50.370Z,"7 km WSW of La Parguera, Puerto Rico",earthquake,0.64,0.43,0.0758299154918936,2,reviewed,pr,pr
 2022-04-01T00:34:51.780Z,36.9633333,-121.6068333,5.25,0.85,md,18,54,0.02141,0.08,nc,nc73712871,2022-04-01T01:00:15.874Z,"6km SW of Gilroy, CA",earthquake,0.24,0.32,0.173,12,reviewed,nc,nc
 2022-04-01T00:29:11.010Z,38.8353348,-122.80867,1.93,0.85,md,11,60,0.01197,0.03,nc,nc73712866,2022-04-01T01:18:18.116Z,"8km WNW of Cobb, CA",earthquake,0.35,0.86,,1,automatic,nc,nc
-2022-04-01T00:29:06.407Z,36.8006,-116.2046,1.5,1,ml,15,60.05,0.073,0.266,nn,nn00836450,2022-04-01T00:31:57.328Z,"50 km ESE of Beatty, Nevada",earthquake,,3.3,0.72,11,automatic,nn,nn
+2022-04-01T00:29:06.407Z,36.8006,-116.2046,1.5,1,ml,15,60.05,0.073,0.266,nn,nn00836450,2022-04-01T00:31:57.328Z,"California-Nevada border region",earthquake,,3.3,0.72,11,automatic,nn,nn
 2022-03-31T23:53:13.307Z,61.4868,-150.6216,42.4,1.6,ml,,,,0.42,ak,ak022458dlc2,2022-03-31T23:57:03.497Z,"8 km SW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-31T23:49:36.360Z,38.8008347,-122.7721634,1.46,0.96,md,13,76,0.009732,0.02,nc,nc73712846,2022-04-01T00:34:15.848Z,"3km NNW of The Geysers, CA",earthquake,0.26,0.6,0.28,2,automatic,nc,nc
 2022-03-31T23:47:44.170Z,17.9433333333333,-66.9965,5.77,2.5,md,5,226,,0.06,pr,pr71342883,2022-04-01T00:20:47.640Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.5,0.85,0.0201163297098734,4,reviewed,pr,pr
@@ -247,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T10:16:40.159Z,36.40966667,-96.85983333,6.11,0.93,ml,36,55,0.03149381984,0.17,ok,ok2022ghkd,2022-03-31T18:44:31.392Z,"9 km NNW of Pawnee, Oklahoma",earthquake,,0.3,0.17,5,reviewed,ok,ok
 2022-03-31T10:16:22.060Z,-22.6503,170.7582,10,5.1,mb,,107,3.059,0.63,us,us7000gyp3,2022-03-31T10:37:16.040Z,"southeast of the Loyalty Islands",earthquake,7.1,1.9,0.102,31,reviewed,us,us
 2022-03-31T10:09:19.263Z,61.056,-148.1202,7.7,1.1,ml,,,,1.05,ak,ak022450djhk,2022-03-31T16:27:52.897Z,"43 km NE of Whittier, Alaska",ice quake,,0.4,,,automatic,ak,ak
-2022-03-31T09:54:02.516Z,55.5071,-155.6917,40.4,3.1,ml,,,,0.74,ak,ak0224501qkv,2022-03-31T16:26:20.726Z,"185 km SSW of Akhiok, Alaska",earthquake,,6.9,,,reviewed,ak,ak
-2022-03-31T09:49:09.477Z,61.3525,-146.7025,9.5,2.6,ml,,,,0.89,ak,ak0224500np0,2022-03-31T09:59:02.869Z,"31 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
