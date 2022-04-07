@@ -9501,3 +9501,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T18:42:12.320Z,65.1129,-148.2678,5.6,1.6,ml,,,,0.86,ak,ak0224gq3ht7,2022-04-07T18:45:21.661Z,"31 km NNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-07T18:24:23.900Z,33.5858333,-116.8053333,7.01,1.19,ml,41.0,39.0,0.0353,0.18,ci,ci39988175,2022-04-07T18:28:07.749Z,"13km WNW of Anza, CA",earthquake,0.22,0.57,0.129,27.0,automatic,ci,ci
 2022-04-07T16:49:26.249Z,31.7229,-104.2869,14.14,2.5,ml,,46.0,0.19,0.92,us,us7000h0gu,2022-04-07T18:36:39.040Z,"50 km S of Whites City, New Mexico",earthquake,2.3,7.9,0.056,91.0,reviewed,us,us
+2022-04-07T18:47:51.314Z,57.8306,-155.8508,15.1,1.4,ml,,,,0.67,ak,ak0224gq4nbk,2022-04-07T18:58:28.305Z,"88 km WNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-07T17:13:01.520Z,45.372,-122.04,-1.89,1.37,ml,6.0,313.0,0.1756,0.04,uw,uw61820272,2022-04-07T18:50:08.660Z,"5 km WNW of Mount Hood Village, Oregon",explosion,2.07,31.61,0.1375137627938386,4.0,reviewed,uw,uw
