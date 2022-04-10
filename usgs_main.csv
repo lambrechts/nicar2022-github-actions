@@ -10170,3 +10170,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T06:32:19.608Z,63.1853,-150.6551,123.2,1.2,ml,,,,0.55,ak,ak0224lhi7fs,2022-04-10T06:42:46.870Z,"66 km SE of Denali National Park, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-04-10T06:28:17.958Z,64.1624,-148.0766,0.0,1.6,ml,,,,0.99,ak,ak0224lhhcfw,2022-04-10T06:42:46.120Z,"53 km ENE of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T06:25:13.700Z,35.8518333,-117.6903333,6.63,1.85,ml,27.0,47.0,0.07439,0.18,ci,ci39989807,2022-04-10T06:35:44.880Z,"22km ESE of Little Lake, CA",earthquake,0.26,0.59,0.204,26.0,automatic,ci,ci
+2022-04-10T06:57:18.615Z,63.263,-150.4388,116.9,1.5,ml,,,,0.33,ak,ak0224lhnk9b,2022-04-10T07:00:24.952Z,"71 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
