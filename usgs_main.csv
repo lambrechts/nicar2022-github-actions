@@ -10997,3 +10997,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T05:00:39.490Z,44.6098333,-111.049,7.46,0.9,ml,14.0,71.0,0.03724,0.19,uu,uu60491282,2022-04-13T13:55:51.380Z,"7 km SE of West Yellowstone, Montana",earthquake,0.51,0.92,0.024,3.0,reviewed,uu,uu
 2022-04-13T04:00:10.680Z,44.7368333,-111.0893333,10.97,1.05,ml,17.0,80.0,0.06058,0.18,uu,uu60491272,2022-04-13T14:12:52.290Z,"8 km N of West Yellowstone, Montana",earthquake,0.47,0.76,0.233,2.0,reviewed,uu,uu
 2022-04-12T15:13:48.284Z,31.68410204,-104.4095243,5.437451172,2.4,ml,10.0,68.0,0.07931883029,0.2,tx,tx2022hdrz,2022-04-13T13:55:44.250Z,"54 km S of Whites City, New Mexico",earthquake,1.917510996,1.976979317,0.1,7.0,reviewed,tx,tx
+2022-04-13T14:43:41.110Z,38.8300018,-122.8153305,1.69,0.36,md,7.0,115.0,0.01793,0.01,nc,nc73717881,2022-04-13T14:45:14.605Z,"8km NW of The Geysers, CA",earthquake,0.57,1.37,,1.0,automatic,nc,nc
+2022-04-12T23:41:51.880Z,44.738,-111.0943333,11.2,0.24,md,11.0,99.0,0.05881,0.12,uu,uu60491217,2022-04-13T14:40:05.620Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.54,1.2,0.313,6.0,reviewed,uu,uu
