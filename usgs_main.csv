@@ -12276,3 +12276,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T11:18:46.650Z,46.218833333333336,-122.431,6.61,0.67,ml,21.0,167.0,0.05967,0.17,uw,uw61823472,2022-04-17T22:51:44.750Z,"34 km N of Amboy, Washington",earthquake,0.42,1.12,0.1330637062858208,13.0,reviewed,uw,uw
 2022-04-17T23:30:30.323Z,65.0219,-147.0375,4.3,1.7,ml,,,,1.01,ak,ak0224xcdlko,2022-04-17T23:32:28.438Z,"16 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-17T23:25:21.040Z,33.5538333,-116.675,7.48,0.25,ml,21.0,64.0,0.05329,0.18,ci,ci40239296,2022-04-17T23:28:57.825Z,"0km SW of Anza, CA",earthquake,0.32,0.67,0.22,8.0,automatic,ci,ci
+2022-04-17T23:34:04.684Z,63.2007,-150.4577,118.9,1.7,ml,,,,0.21,ak,ak0224xceegk,2022-04-17T23:44:46.400Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
