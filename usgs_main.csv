@@ -12732,3 +12732,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-19T09:57:16.250Z,38.8213348,-122.8463364,2.03,1.65,md,32.0,56.0,0.009009,0.03,nc,nc73720085,2022-04-19T10:31:26.622Z,"9km WNW of The Geysers, CA",earthquake,0.18,0.31,0.08,7.0,automatic,nc,nc
 2022-04-19T09:56:39.110Z,33.8175,-118.2673333,8.17,1.43,ml,30.0,77.0,0.06319,0.35,ci,ci40240896,2022-04-19T10:16:22.396Z,"2km SE of Carson, CA",earthquake,0.6,1.36,0.268,28.0,automatic,ci,ci
 2022-04-18T11:38:06.375Z,31.60134501,-104.5432486,9.859228516,1.5,ml,18.0,84.0,0.07649384187,0.3,tx,tx2022hojw,2022-04-19T10:27:52.939Z,"65 km SSW of Whites City, New Mexico",earthquake,2.097418767,1.631802202,0.2,11.0,reviewed,tx,tx
+2022-04-19T10:50:02.120Z,38.8193321,-122.805336,2.63,0.84,md,9.0,70.0,0.005492,0.01,nc,nc73720110,2022-04-19T10:55:27.230Z,"6km NW of The Geysers, CA",earthquake,0.4,1.26,,1.0,automatic,nc,nc
